@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jfFS2oLFXQWg0pBv7W5CVXA3xQ260PPVfS2OhwZnFCI2foD4rocUFgckCzemVzwT7VocL9Qjl4Kc2Q1sVz7Ag==",
+  "success": true,
+  "projectFilePath": "/Users/xakimov/Dev/Csharp/buf/blog/api/api.csproj",
+  "expectedPackageFiles": [
+    "/Users/xakimov/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/xakimov/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/xakimov/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/xakimov/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/xakimov/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/xakimov/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
